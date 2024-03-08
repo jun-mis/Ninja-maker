@@ -1,5 +1,8 @@
 # Ninja-maker
 
+## Live Demo
+https://app.ninja-maker.site/service
+
 ## What it does
 - Ninja Makerは、ユーザーが独自の忍者キャラクターを簡単に作成・公開できるプラットフォームです。
 - ユーザーは、性別・種類（アニメ風/実写/猫）生年月日を選択するだけで、下記の要素が自動生成されます。
